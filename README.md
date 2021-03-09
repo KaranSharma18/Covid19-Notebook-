@@ -23,6 +23,6 @@ __[SAGE Journal Covid19 Research](https://journals.sagepub.com/coronavirus)__
 
 
 
-
+**My contact info** : karansharma4336@gmail.com
 
 **by __[Karan Sharma](https://github.com/KaranSharma18)__ - Feb 2021**
